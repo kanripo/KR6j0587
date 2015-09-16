@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說師子奮迅菩薩所問經
+#+DATE: 2015-08-30 20:35:45.713620
+#+PROPERTY: JUAN 0
