@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:45.476211
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:34
 #+TITLE: 佛說師子奮迅菩薩所問經
 #+PROPERTY: CBETA_ID T21n1357
 #+PROPERTY: ID KR6j0587
